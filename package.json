@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@apollo/client": "^3.5.10",
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts-ts": "^4.0.8"
